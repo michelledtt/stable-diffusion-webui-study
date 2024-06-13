@@ -11,9 +11,7 @@ __pycache__
 /models/**/*
 /GFPGANv1.3.pth
 /gfpgan/weights/*.pth
-/ui-config.json
 /outputs
-/config.json
 /log
 /webui.settings.bat
 /embeddings
@@ -39,3 +37,4 @@ notification.mp3
 /.coverage*
 /test/test_outputs
 /cache
+.DS_Store
